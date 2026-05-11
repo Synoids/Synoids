@@ -1,6 +1,10 @@
 # Hi there, I'm Eriel Budiman 👋
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Information+Systems+Student;Full+Stack+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Synoids&label=Profile%20views&color=0e75b6&style=flat" alt="Synoids" />
 </p>
 
@@ -84,10 +88,14 @@ I build simple, clean, and functional web applications using modern web technolo
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Synoids&theme=transparent&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakNum=6C63FF&sideNums=6C63FF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=777" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synoids&bg_color=00000000&color=6C63FF&line=6C63FF&point=6C63FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
