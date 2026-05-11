@@ -87,8 +87,7 @@ I build simple, clean, and functional web applications using modern web technolo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Synoids&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=777" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Synoids&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=777" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Synoids&theme=transparent&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakNum=6C63FF&sideNums=6C63FF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=777" alt="GitHub Streak Stats" />
 </p>
 
 ---
