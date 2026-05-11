@@ -87,8 +87,8 @@ I build simple, clean, and functional web applications using modern web technolo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Synoids&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=777" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synoids&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=777" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Synoids&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=777" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Synoids&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=777" alt="Top Languages" />
 </p>
 
 ---
@@ -105,7 +105,7 @@ I build simple, clean, and functional web applications using modern web technolo
   <a href="https://wa.me/62895631583081" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://eriel.my.id" target="_blank">
+  <a href="https://erielbudiman.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </p>
