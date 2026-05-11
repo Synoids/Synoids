@@ -98,6 +98,10 @@ I build simple, clean, and functional web applications using modern web technolo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synoids&bg_color=00000000&color=6C63FF&line=6C63FF&point=6C63FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Synoids/Synoids/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ### 📫 Connect with me
